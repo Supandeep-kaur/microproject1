@@ -60,7 +60,9 @@ project-folder/
 app.get('/api/courses', (req, res) => {
 res.json(coursesData);
 });
- Open browser:
+
+---
+Open browser:
 http://localhost:3000
 
 
