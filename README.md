@@ -62,12 +62,7 @@ res.json(coursesData);
 });
 
 
----
 
-
-###
-Open browser:
-http://localhost:3000
 
 
 
